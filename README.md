@@ -5,6 +5,9 @@
 <img width="500" alt="moamz_logo" src="https://github.com/user-attachments/assets/f7230f08-9a71-449c-855f-6f2651ab0d5c">
 <br>
 
+## 📜MOAMZ 포트폴리오(PDF)
+* <MOAMZ pdf 주소>(링크주소)
+
 ## 🖥️서비스 소개
 * 환경을 생각하고, 합리적인 소비를 추구하는 MZ세대를 위해<br> 쇼핑몰과 커뮤니티 공간을 하나로 결합한 종합 플랫폼입니다.
 
@@ -42,9 +45,6 @@
 * __협업 툴__ :Notion, Github, Discord, erdCloud
 * __디자인__ : [Figma](https://www.figma.com/design/TpAAI0I31pGPUmDPsjAZmZ/%5B%ED%8C%8C%EC%9D%B4%EB%B8%8C%EA%B0%80%EC%9D%B4%EC%A6%88%5D%EC%84%9C%EB%B9%84%EC%8A%A4%ED%99%94%EB%A9%B4?node-id=144-1188&node-type=canvas&t=i7WRGLK0gFvdAiJ9-0)
 
-
-## 📜MOAMZ 포트폴리오(PDF)
-* <링크이름>(링크주소)
 
 ## 💽ERD 구성
 <details>
