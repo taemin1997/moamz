@@ -1,6 +1,14 @@
 # 🌱 환경을 생각하는 MZ들의 공간, MOAMZ
 스프링부트 기반 친환경 O2O 커뮤니티 플랫폼
 
+### Key Highlights
+
+✔ REST API 기반 서비스 구조  
+✔ KakaoPay 결제 API 연동  
+✔ WebSocket 실시간 채팅 구현  
+✔ 쇼핑몰 + 커뮤니티 통합 서비스  
+✔ 장바구니 → 결제까지 이어지는 구매 흐름 구현
+
 <img width="500" alt="moamz_logo" src="https://github.com/user-attachments/assets/f7230f08-9a71-449c-855f-6f2651ab0d5c">
 <br><br>
 
