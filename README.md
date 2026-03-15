@@ -6,7 +6,7 @@
 <br>
 
 ## 📜MOAMZ 포트폴리오(PDF)
-* <MOAMZ pdf 주소>[(링크주소)](https://github.com/taemin1997/moamz/blob/main/MOAMZ_%EA%B3%A0%ED%83%9C%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf))
+* <MOAMZ pdf 주소>[(링크주소)](https://github.com/taemin1997/moamz/blob/main/MOAMZ_%EA%B3%A0%ED%83%9C%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ## 🖥️서비스 소개
 * 환경을 생각하고, 합리적인 소비를 추구하는 MZ세대를 위해<br> 쇼핑몰과 커뮤니티 공간을 하나로 결합한 종합 플랫폼입니다.
